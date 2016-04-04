@@ -12,8 +12,8 @@ This document describes the **Nomination API**. These are the APIs needed to est
 Participants
 ------------
 
-* **Home institution** - The student's home institution.
-* **Host institution** - The institution the student is visiting. 
+* **Home institution** - The home institution is the institution where the student originates from.
+* **Host institution** - The host institution is where the student wants to study. 
 
 Basic flow
 ----------
