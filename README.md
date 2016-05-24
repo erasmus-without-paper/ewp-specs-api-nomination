@@ -1,4 +1,4 @@
-Nomination API
+DEPRECATED - Nomination API
 ======================================
 
 * [What is the status of this document?][statuses]
